@@ -4,7 +4,7 @@ const initialState = {
   numOfItems: 0,
 };
 
-export default cartReducer = (state = initialState, action) => {
+export const cartReducer = (state = initialState, action) => {
   switch (action.type) {
     case ADD_ITEM:
       return {
