@@ -12,10 +12,10 @@ button {
   cursor: pointer;
 }
 .green {
-  background-color: rgb(6, 172, 0);
+  background-color: green;
 }
 .red {
-  background-color: rgb(221, 52, 66);
+  background-color: red;
 }
 .red:disabled {
   background-color: rgb(193, 191, 191);
